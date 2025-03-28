@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2A-DS-PI\\DaviG e Debora\\DS\\csharpe\\PAM01-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E68247-B0D3-4059-AB0F-28ECC5E865C3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\2a-ds-pi\\davig e debora\\ds\\csharpe\\pam01-main\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5E68247-B0D3-4059-AB0F-28ECC5E865C3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E68247-B0D3-4059-AB0F-28ECC5E865C3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\2a-ds-pi\\davig e debora\\ds\\csharpe\\pam01-main\\windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5E68247-B0D3-4059-AB0F-28ECC5E865C3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E68247-B0D3-4059-AB0F-28ECC5E865C3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\2a-ds-pi\\davig e debora\\ds\\csharpe\\pam01-main\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5E68247-B0D3-4059-AB0F-28ECC5E865C3}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "F:\\2A-DS-PI\\DaviG e Debora\\DS\\csharpe\\PAM01-main\\WindowsFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form3.cs",
+              "ToolTip": "F:\\2A-DS-PI\\DaviG e Debora\\DS\\csharpe\\PAM01-main\\WindowsFormsApp1\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:07:36.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "F:\\2A-DS-PI\\DaviG e Debora\\DS\\csharpe\\PAM01-main\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "F:\\2A-DS-PI\\DaviG e Debora\\DS\\csharpe\\PAM01-main\\WindowsFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:07:34.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\2A-DS-PI\\DaviG e Debora\\DS\\csharpe\\PAM01-main\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "F:\\2A-DS-PI\\DaviG e Debora\\DS\\csharpe\\PAM01-main\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:07:30.061Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
